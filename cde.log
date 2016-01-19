@@ -1,0 +1,4 @@
+cd 'cde-root/home/user'
+'./libreoffice.cde' '--headless' '--invisible' '--convert-to' 'pdf' '/home/user/convert/sample.docx' '--outdir' '/home/user/output/'
+'./libreoffice.cde' '--headless' '--invisible' '--convert-to' 'pdf' '/home/user/convert/sample.docx' '--outdir' '/home/user/output'
+'./libreoffice.cde' '--headless' '--invisible' '--convert-to' 'pdf' '/home/user/convert/sample.docx' '--outdir' '/home/user/output'
