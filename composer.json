@@ -1,0 +1,14 @@
+{
+    "name": "legalinc/office-merge-lib",
+    "description": "This library contains the CDE packages of libreOffice and Imagick. This is used to convert doc, docx, png and jpeg files to PDF.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sachin Sunny",
+            "email": "sachin@qburst.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    }
+}
